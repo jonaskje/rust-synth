@@ -1,0 +1,17 @@
+{
+	// See https://go.microsoft.com/fwlink/?LinkId=827846
+	// for the documentation about the extensions.json format
+	"recommendations": [
+		"bungcip.better-toml", // Better TOML
+		"ms-vscode.cpptools", // C/C++ debugger
+		"vadimcn.vscode-lldb", // CodeLLDB
+		"bierner.markdown-preview-github-styles", // Markdown Preview GitHub Style
+		"davidanson.vscode-markdownlint", // markdownlint
+		"webfreak.debug", // Native Debug
+		"rust-lang.rust", // Rust (rls)
+		"slevesque.shader", // Shader languages support for VS Code
+		"zxh404.vscode-proto3", // vscode-proto3
+		"redhat.vscode-yaml", // YAML
+		"wayou.vscode-todo-highlight", // TODO Highlight
+	]
+}
